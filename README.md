@@ -34,8 +34,8 @@ $ sudo apt-get update -y
 ```
 $ sudo apt-get install rabbitmq-server -y
 ```
-```
-### Habilitar plugin de gerenciamento para monitorar o serviço do rabbitmq:
+
+#### Habilitar plugin de gerenciamento para monitorar o serviço do rabbitmq:
 ```
 ```
 $ rabbitmq-plugins enable rabbitmq_management
