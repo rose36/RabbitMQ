@@ -6,11 +6,17 @@
 
 ```
 $ wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb
+```
+```
 $ sudo dpkg -i erlang-solutions_1.0_all.deb
+```
+```
 $ sudo apt-get update -y
+```
+```
 $ sudo apt-get install erlang -y
 ```
-```
+
 ### Instalação do RabbitMQ
 
 $ echo 'echo "deb http://www.rabbitmq.com/debian/ testing main" >> /etc/apt/sources.list' | sudo -s
