@@ -19,6 +19,7 @@ $ sudo apt-get install erlang -y
 
 ### Instalação do RabbitMQ
 
+```
 $ echo 'echo "deb http://www.rabbitmq.com/debian/ testing main" >> /etc/apt/sources.list' | sudo -s
 ```
 ```
