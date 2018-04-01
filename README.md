@@ -36,11 +36,11 @@ $ sudo apt-get install rabbitmq-server -y
 ```
 
 #### Habilitar plugin de gerenciamento para monitorar o serviço do rabbitmq:
-```
+
 ```
 $ rabbitmq-plugins enable rabbitmq_management
 ```
-```
+
 Para acessar o painel de gerenciamento: http://localhost:15672.
 Para novas instalações, o usuário e senha de acesso criados são: guest.
 
